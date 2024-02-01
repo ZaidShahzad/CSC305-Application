@@ -8,21 +8,22 @@
                 }
             },
             "assets": {
-                "65b4208e318555be9b6046ff": {
+                "65b94be4b3f5948e3d2f7e9b": {
+                    "name": "305soft-high-resolution-logo-color-on-transparent-background.png",
+                    "originalname": "305soft-high-resolution-logo-color-on-transparent-background.png",
                     "externalStorageType": "GCS",
-                    "_id": "65b4208e318555be9b6046ff",
+                    "externalName": "users/65aebd9452fb9ef95ef1370e/projects/65b94be4b3f5948e3d2f7e98/assets/65b94be4b3f5948e3d2f7e9b",
+                    "backendURI": "/project/65b94be4b3f5948e3d2f7e98/getasset/65b94be4b3f5948e3d2f7e9b",
                     "size": "53614",
                     "mimetype": "image/png",
                     "encoding": "7bit",
-                    "originalname": "305soft-high-resolution-logo-color-on-transparent-background.png",
-                    "backendURI": "/project/65b419d820a690e57b624494/getasset/65b4208e318555be9b6046ff",
-                    "name": "305soft-high-resolution-logo-color-on-transparent-background.png",
-                    "externalName": "users/65aebd9452fb9ef95ef1370e/projects/65b419d820a690e57b624494/assets/65b4208e318555be9b6046ff",
+                    "_id": "65b94be4b3f5948e3d2f7e9b",
                     "createdAt": "2024-01-26T21:13:50.754Z",
                     "updatedAt": "2024-01-26T21:13:50.754Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65aebd9452fb9ef95ef1370e/projects/65b419d820a690e57b624494/assets/65b4208e318555be9b6046ff?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240130%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240130T215826Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=b74f142c672e5de80c9885fc504d28bd511de7550f277f177b09af4dadb38c7369dabdc9f92c6ad5d5817a056662f684f097ad91b8ef672df3777ce6742d5a0e5e87897f4213bd46495460b20e69f4cf2c4618fb8e9a43bf32c4949e51bf92749723b351daa2b5c88610414b79c8828fdf3a22bc81022be3384248d92289632adff17b67a982a4143cbcfadea0497036ed3c24cdb67a41917d741138e9b51fbd7fabe299f5bbcf9d7975be5fb935715ec5decb9776d66c3b0e6206c5d90ebdb45751ec26f3ff235b8d3e8bd75926e34aa8366ea7972f7ef1ea47db4b070be678b2a06d87250e3a65670d25fb152549dad15a1282342f11f0482ce4cdba11336c",
-                    "signedUrlExpirationTime": 1706824706318
+                    "id": "65b94be4b3f5948e3d2f7e9b",
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65aebd9452fb9ef95ef1370e/projects/65b94be4b3f5948e3d2f7e98/assets/65b94be4b3f5948e3d2f7e9b?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240201%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240201T162133Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=a56faa82f6cc87e6a63c0a47a9972e7c5c0af051424ad2f5a2d42d949b8c6b9f6e8ae5e450d593ab52e9960e44749f060346ef081d05a2ddd594ae5df437c1acb057522fae2908e41d8d4d8366edf533257c7c91934a5e46ba9959776213388a7502a661c3d292c0c3bc765e3187cae362986d68e9a3e161bd54d149ffb10629fcc706d0c8b40b65bf27a655bd22abb2502a9dd8efa274a0146448d6bb208abd7f02f5d20b0ce596cd38bf70da1ddb416a6dd7edc2cab2347dd0f51d02fe73c1a5c0f8c7271414795b790e56c26b72d2c38a09afd07f8a19ac3319178a891c898704e0b24277ba55769c21218cb0c70097998e715fabe5fe40ddd4c7ee77850e",
+                    "signedUrlExpirationTime": 1706977293027
                 }
             },
             "backendUpgradeVersion": 24,
@@ -35,14 +36,14 @@
                         ],
                         "ios": [
                             {
-                                "name": "NSCameraUsageDescription",
-                                "label": "Camera",
-                                "hint": "Describe why your app uses the camera."
-                            },
-                            {
                                 "name": "NSPhotoLibraryUsageDescription",
                                 "label": "Photos",
                                 "hint": "Describe why your app uses photos."
+                            },
+                            {
+                                "name": "NSCameraUsageDescription",
+                                "label": "Camera",
+                                "hint": "Describe why your app uses the camera."
                             }
                         ]
                     },
@@ -89,7 +90,6 @@
                             "TabNavigationOptions": {
                                 "tabBarVisible": true
                             },
-                            "TabNavigatorIcon": {},
                             "config": {
                                 "contentOptions": {
                                     "drawerPosition": "left"
@@ -97,8 +97,7 @@
                             },
                             "navigationOptions": {
                                 "tabBarVisible": true
-                            },
-                            "tabNavigationOptions": {}
+                            }
                         },
                         "children": [
                             {
@@ -117,7 +116,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Camera App",
+            "projectName": "Camera App Updated",
             "settings": {
                 "teamId": null,
                 "appName": "Camera Application",
@@ -151,7 +150,7 @@
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSMicrophoneUsageDescription": ""
+                            "NSPhotoLibraryUsageDescription": ""
                         }
                     }
                 },
@@ -200,7 +199,7 @@
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSMicrophoneUsageDescription": ""
+                            "NSPhotoLibraryUsageDescription": ""
                         }
                     }
                 },
@@ -228,7 +227,13 @@
             "totalCopy": "0",
             "totalStar": "0",
             "starAction": "star",
-            "variables": {},
+            "variables": {
+                "87fe2b57-2eef-4757-8763-295b18b6365e": {
+                    "scope": "APP",
+                    "name": "voice_confirmation",
+                    "screenId": "e18a9b35-1022-4607-8d32-d17c8078e872"
+                }
+            },
             "defaultDesignerDevice": "PHONE",
             "defaultDesignerOrientation": "PORTRAIT",
             "schemaVersion": 2,
