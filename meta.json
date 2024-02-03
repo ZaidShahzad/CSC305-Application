@@ -22,8 +22,8 @@
                     "updatedAt": "2024-01-26T21:13:50.754Z",
                     "__v": 0,
                     "id": "65b94be4b3f5948e3d2f7e9b",
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65aebd9452fb9ef95ef1370e/projects/65b94be4b3f5948e3d2f7e98/assets/65b94be4b3f5948e3d2f7e9b?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240201%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240201T162133Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=a56faa82f6cc87e6a63c0a47a9972e7c5c0af051424ad2f5a2d42d949b8c6b9f6e8ae5e450d593ab52e9960e44749f060346ef081d05a2ddd594ae5df437c1acb057522fae2908e41d8d4d8366edf533257c7c91934a5e46ba9959776213388a7502a661c3d292c0c3bc765e3187cae362986d68e9a3e161bd54d149ffb10629fcc706d0c8b40b65bf27a655bd22abb2502a9dd8efa274a0146448d6bb208abd7f02f5d20b0ce596cd38bf70da1ddb416a6dd7edc2cab2347dd0f51d02fe73c1a5c0f8c7271414795b790e56c26b72d2c38a09afd07f8a19ac3319178a891c898704e0b24277ba55769c21218cb0c70097998e715fabe5fe40ddd4c7ee77850e",
-                    "signedUrlExpirationTime": 1706977293027
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65aebd9452fb9ef95ef1370e/projects/65b94be4b3f5948e3d2f7e98/assets/65b94be4b3f5948e3d2f7e9b?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240203%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240203T023525Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=66665d83a862aa9ce1da936f21de4ee1c53fb2f748eabda662a0556ce845929caebeb10015e7a5d6ad6fea010c7b8582d32b6a18b792a3ff939e3582722b85cd4224c98790dc81f779570e5915d89fd1e5a969840bcff1634c1626001701a40c24720e0f1f1fbe28a07a1770aed1cfd1202c44a021c61932d600942a875cb7ecfcc5a2edfdb4b53d3f31e1222ea79babeb468a7426c97d8cc74805b85cab0a84ac2a86612dea9291630a3ec6a4251770fe1ac8549108bc08efb79c38a67d10a285006e2f4b4d1f663ef31fd5f7b12b4db8a91cb932f436ca84b335cbd1a0ed5e9310ebd426eb712e8651733a0b1d70faca13be894c0b8235b25975ff23bccc97",
+                    "signedUrlExpirationTime": 1707100525736
                 }
             },
             "backendUpgradeVersion": 24,
@@ -150,7 +150,7 @@
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSPhotoLibraryUsageDescription": ""
+                            "NSMicrophoneUsageDescription": ""
                         }
                     }
                 },
@@ -199,7 +199,7 @@
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSPhotoLibraryUsageDescription": ""
+                            "NSMicrophoneUsageDescription": ""
                         }
                     }
                 },
