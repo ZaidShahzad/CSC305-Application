@@ -98,7 +98,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "CSC305-Application-Main App (added label)",
+            "projectName": "CSC305-Application - Main App (removed test label)",
             "settings": {
                 "teamId": null,
                 "appName": null,
@@ -129,12 +129,7 @@
                 "cloudinaryAPIKey": null,
                 "cloudinaryAPISecret": null,
                 "permissions": {
-                    "ios": {
-                        "usageDescriptions": {
-                            "NSCameraUsageDescription": "",
-                            "NSPhotoLibraryUsageDescription": ""
-                        }
-                    }
+                    "ios": {}
                 },
                 "googleMapAPIKeyAndroid": null,
                 "googleMapAPIKeyIOS": null,
@@ -178,12 +173,7 @@
                 "cloudinaryAPIKey": null,
                 "cloudinaryAPISecret": null,
                 "permissions": {
-                    "ios": {
-                        "usageDescriptions": {
-                            "NSCameraUsageDescription": "",
-                            "NSPhotoLibraryUsageDescription": ""
-                        }
-                    }
+                    "ios": {}
                 },
                 "googleMapAPIKeyAndroid": null,
                 "googleMapAPIKeyIOS": null,
