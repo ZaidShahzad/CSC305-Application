@@ -7,25 +7,7 @@
                     "children": []
                 }
             },
-            "assets": {
-                "65b94be4b3f5948e3d2f7e9b": {
-                    "name": "305soft-high-resolution-logo-color-on-transparent-background.png",
-                    "originalname": "305soft-high-resolution-logo-color-on-transparent-background.png",
-                    "externalStorageType": "GCS",
-                    "externalName": "users/65aebd9452fb9ef95ef1370e/projects/65b94be4b3f5948e3d2f7e98/assets/65b94be4b3f5948e3d2f7e9b",
-                    "backendURI": "/project/65b94be4b3f5948e3d2f7e98/getasset/65b94be4b3f5948e3d2f7e9b",
-                    "size": "53614",
-                    "mimetype": "image/png",
-                    "encoding": "7bit",
-                    "_id": "65b94be4b3f5948e3d2f7e9b",
-                    "createdAt": "2024-01-26T21:13:50.754Z",
-                    "updatedAt": "2024-01-26T21:13:50.754Z",
-                    "__v": 0,
-                    "id": "65b94be4b3f5948e3d2f7e9b",
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65aebd9452fb9ef95ef1370e/projects/65b94be4b3f5948e3d2f7e98/assets/65b94be4b3f5948e3d2f7e9b?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240203%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240203T023525Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=66665d83a862aa9ce1da936f21de4ee1c53fb2f748eabda662a0556ce845929caebeb10015e7a5d6ad6fea010c7b8582d32b6a18b792a3ff939e3582722b85cd4224c98790dc81f779570e5915d89fd1e5a969840bcff1634c1626001701a40c24720e0f1f1fbe28a07a1770aed1cfd1202c44a021c61932d600942a875cb7ecfcc5a2edfdb4b53d3f31e1222ea79babeb468a7426c97d8cc74805b85cab0a84ac2a86612dea9291630a3ec6a4251770fe1ac8549108bc08efb79c38a67d10a285006e2f4b4d1f663ef31fd5f7b12b4db8a91cb932f436ca84b335cbd1a0ed5e9310ebd426eb712e8651733a0b1d70faca13be894c0b8235b25975ff23bccc97",
-                    "signedUrlExpirationTime": 1707100525736
-                }
-            },
+            "assets": {},
             "backendUpgradeVersion": 24,
             "blockly": {
                 "e18a9b35-1022-4607-8d32-d17c8078e872": {
@@ -116,10 +98,10 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Camera App Updated",
+            "projectName": "CSC305-Application-Main App (added label)",
             "settings": {
                 "teamId": null,
-                "appName": "Camera Application",
+                "appName": null,
                 "icon": null,
                 "autoIncrementVersion": true,
                 "ignoreNotchArea": false,
@@ -150,7 +132,7 @@
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSMicrophoneUsageDescription": ""
+                            "NSPhotoLibraryUsageDescription": ""
                         }
                     }
                 },
@@ -168,7 +150,7 @@
             },
             "projectSettings": {
                 "teamId": null,
-                "appName": "Camera Application",
+                "appName": null,
                 "icon": null,
                 "autoIncrementVersion": true,
                 "ignoreNotchArea": false,
@@ -199,7 +181,7 @@
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSMicrophoneUsageDescription": ""
+                            "NSPhotoLibraryUsageDescription": ""
                         }
                     }
                 },
